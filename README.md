@@ -11,7 +11,7 @@
 <img src="./screenshot/3.png" width="80%">
 <img src="./screenshot/4.png" width="80%">
 
-웹기반 프로젝트 관리 소프트웨어인 트렐로를 클론한 사이트입니다.  
+개인 프로젝트로 진행한 웹기반 프로젝트 관리 소프트웨어, 트렐로를 클론한 사이트입니다.  
 Link: http://frello.site/   
 TestID: vip@gmail.com  
 TestPW: vip123
@@ -41,7 +41,7 @@ TestPW: vip123
 <img src="./screenshot/5.png" width="80%">
 <img src="./screenshot/6.png" width="80%">
 
-개발자 포트폴리오 커뮤니티 사이트 입니다.
+팀프로젝트로 진행한 개발자 포트폴리오 커뮤니티 사이트 입니다.
 
 ## Built with
 Java, Spring, JSP, BootStrap, Ajax, Oracle, JDBC
